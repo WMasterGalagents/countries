@@ -1,0 +1,1099 @@
+﻿{
+    "countries": [{
+            "id": 144,
+            "name": "Afganistán",
+            "merchant": "Asia"
+        },
+        {
+            "id": 114,
+            "name": "Albania",
+            "merchant": "Europa"
+        },
+        {
+            "id": 18,
+            "name": "Alemania",
+            "merchant": "Europa"
+        },
+        {
+            "id": 98,
+            "name": "Algeria",
+            "merchant": "Africa"
+        },
+        {
+            "id": 145,
+            "name": "Andorra",
+            "merchant": "Europa"
+        },
+        {
+            "id": 119,
+            "name": "Angola",
+            "merchant": "Africa"
+        },
+        {
+            "id": 4,
+            "name": "Anguilla",
+            "merchant": "UK"
+        },
+        {
+            "id": 147,
+            "name": "Antigua y Barbuda",
+            "merchant": "América Central"
+        },
+        {
+            "id": 207,
+            "name": "Antillas Holandesas",
+            "merchant": "Europa"
+        },
+        {
+            "id": 91,
+            "name": "Arabia Saudita",
+            "merchant": "Asia"
+        },
+        {
+            "id": 5,
+            "name": "Argentina",
+            "merchant": "Latin América"
+
+        },
+        {
+            "id": 6,
+            "name": "Armenia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 142,
+            "name": "Aruba",
+            "merchant": "Europa"
+        },
+        {
+            "id": 1,
+            "name": "Australia",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 2,
+            "name": "Austria",
+            "merchant": "Europa"
+        },
+        {
+            "id": 3,
+            "name": "Azerbaiyán",
+            "merchant": "Europa"
+        },
+        {
+            "id": 80,
+            "name": "Bahamas",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 127,
+            "name": "Bahrein",
+            "merchant": "Asia"
+        },
+        {
+            "id": 149,
+            "name": "Bangladesh",
+            "merchant": "Asia"
+        },
+        {
+            "id": 128,
+            "name": "Barbados",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 9,
+            "name": "Bélgica",
+            "merchant": "Europa"
+        },
+        {
+            "id": 8,
+            "name": "Belice",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 151,
+            "name": "Benín",
+            "merchant": "Africa"
+        },
+        {
+            "id": 10,
+            "name": "Bermudas",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 7,
+            "name": "Bielorrusia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 123,
+            "name": "Bolivia",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 79,
+            "name": "Bosnia y Herzegovina",
+            "merchant": "Europa"
+        },
+        {
+            "id": 100,
+            "name": "Botsuana",
+            "merchant": "Africa"
+        },
+        {
+            "id": 12,
+            "name": "Brasil",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 155,
+            "name": "Brunéi",
+            "merchant": "Asia"
+        },
+        {
+            "id": 11,
+            "name": "Bulgaria",
+            "merchant": "Europa"
+        },
+        {
+            "id": 156,
+            "name": "Burkina Faso",
+            "merchant": "Africa"
+        },
+        {
+            "id": 157,
+            "name": "Burundi",
+            "merchant": "Africa"
+        },
+        {
+            "id": 152,
+            "name": "Bután",
+            "merchant": "Asia"
+        },
+        {
+            "id": 159,
+            "name": "Cabo Verde",
+            "merchant": "Europa"
+        },
+        {
+            "id": 158,
+            "name": "Camboya",
+            "merchant": "Asia"
+        },
+        {
+            "id": 31,
+            "name": "Camerún",
+            "merchant": "Africa"
+        },
+        {
+            "id": 32,
+            "name": "Canadá",
+            "merchant": "USA & Canadá"
+        },
+        {
+            "id": 130,
+            "name": "Chad",
+            "merchant": "Africa"
+        },
+        {
+            "id": 81,
+            "name": "Chile",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 35,
+            "name": "China",
+            "merchant": "Asia"
+        },
+        {
+            "id": 33,
+            "name": "Chipre",
+            "merchant": "Europa"
+        },
+        {
+            "id": 82,
+            "name": "Colombia",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 164,
+            "name": "Comores",
+            "merchant": "Africa"
+        },
+        {
+            "id": 112,
+            "name": "Congo (Brazzaville)",
+            "merchant": "Africa"
+        },
+        {
+            "id": 165,
+            "name": "Congo (Kinshasa)",
+            "merchant": "Africa"
+        },
+        {
+            "id": 166,
+            "name": "Cook, Islas",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 84,
+            "name": "Corea del Norte",
+            "merchant": "Asia"
+        },
+        {
+            "id": 69,
+            "name": "Corea del Sur",
+            "merchant": "Asia"
+        },
+        {
+            "id": 168,
+            "name": "Costa de Marfil",
+            "merchant": "Africa"
+        },
+        {
+            "id": 36,
+            "name": "Costa Rica",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 71,
+            "name": "Croacia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 113,
+            "name": "Cuba",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 22,
+            "name": "Dinamarca",
+            "merchant": "Europa"
+        },
+        {
+            "id": 169,
+            "name": "Djibouti, Yibuti",
+            "merchant": "Africa"
+        },
+        {
+            "id": 103,
+            "name": "Ecuador",
+            "merchant": "Ecuador"
+        },
+        {
+            "id": 23,
+            "name": "Egipto",
+            "merchant": "Africa"
+        },
+        {
+            "id": 51,
+            "name": "El Salvador",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 93,
+            "name": "Emiratos Árabes Unidos",
+            "merchant": "Asia"
+        },
+        {
+            "id": 173,
+            "name": "Eritrea",
+            "merchant": "Africa"
+        },
+        {
+            "id": 993,
+            "name": "Escocia",
+            "merchant": "UK"
+        },
+        {
+            "id": 52,
+            "name": "Eslovaquia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 53,
+            "name": "Eslovenia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 28,
+            "name": "España",
+            "merchant": "Europa"
+        },
+        {
+            "id": 55,
+            "name": "Estados Unidos",
+            "merchant": "USA & Canadá"
+        },
+        {
+            "id": 68,
+            "name": "Estonia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 121,
+            "name": "Etiopía",
+            "merchant": "Africa"
+        },
+        {
+            "id": 175,
+            "name": "Feroe, Islas",
+            "merchant": "Europa"
+        },
+        {
+            "id": 90,
+            "name": "Filipinas",
+            "merchant": "Asia"
+        },
+        {
+            "id": 63,
+            "name": "Finlandia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 176,
+            "name": "Fiyi",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 64,
+            "name": "Francia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 994,
+            "name": "Gales",
+            "merchant": "UK"
+        },
+        {
+            "id": 180,
+            "name": "Gabón",
+            "merchant": "Africa"
+        },
+        {
+            "id": 181,
+            "name": "Gambia",
+            "merchant": "Africa"
+        },
+        {
+            "id": 21,
+            "name": "Georgia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 105,
+            "name": "Ghana",
+            "merchant": "Africa"
+        },
+        {
+            "id": 143,
+            "name": "Gibraltar",
+            "merchant": "UK"
+        },
+        {
+            "id": 184,
+            "name": "Granada",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 20,
+            "name": "Grecia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 94,
+            "name": "Groenlandia",
+            "merchant": "Africa"
+        },
+        {
+            "id": 17,
+            "name": "Guadalupe",
+            "merchant": "Europa"
+        },
+        {
+            "id": 185,
+            "name": "Guatemala",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 186,
+            "name": "Guernsey",
+            "merchant": "Europa"
+        },
+        {
+            "id": 187,
+            "name": "Guinea",
+            "merchant": "Africa"
+        },
+        {
+            "id": 172,
+            "name": "Guinea Ecuatorial",
+            "merchant": "Africa"
+        },
+        {
+            "id": 188,
+            "name": "Guinea-Bissau",
+            "merchant": "Africa"
+        },
+        {
+            "id": 189,
+            "name": "Guyana",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 16,
+            "name": "Haiti",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 137,
+            "name": "Honduras",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 73,
+            "name": "Hong Kong",
+            "merchant": "Asia"
+        },
+        {
+            "id": 14,
+            "name": "Hungría",
+            "merchant": "Europa"
+        },
+        {
+            "id": 25,
+            "name": "India",
+            "merchant": "Asia"
+        },
+        {
+            "id": 991,
+            "name": "Inglaterra",
+            "merchant": "UK"
+        },
+        {
+            "id": 74,
+            "name": "Indonesia",
+            "merchant": "Asia"
+        },
+        {
+            "id": 140,
+            "name": "Irak",
+            "merchant": "Asia"
+        },
+        {
+            "id": 26,
+            "name": "Irán",
+            "merchant": "Asia"
+        },
+        {
+            "id": 27,
+            "name": "Irlanda",
+            "merchant": "Europa"
+        },
+        {
+            "id": 992,
+            "name": "Irlanda del Norte",
+            "merchant": "UK"
+        },
+        {
+            "id": 215,
+            "name": "Isla Pitcairn",
+            "merchant": "UK"
+        },
+        {
+            "id": 83,
+            "name": "Islandia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 228,
+            "name": "Islas Salomón",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 58,
+            "name": "Islas Turcas y Caicos",
+            "merchant": "UK"
+        },
+        {
+            "id": 154,
+            "name": "Islas Virgenes Británicas",
+            "merchant": "UK"
+        },
+        {
+            "id": 24,
+            "name": "Israel",
+            "merchant": "Asia"
+        },
+        {
+            "id": 29,
+            "name": "Italia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 132,
+            "name": "Jamaica",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 70,
+            "name": "Japón",
+            "merchant": "Asia"
+        },
+        {
+            "id": 193,
+            "name": "Jersey",
+            "merchant": "Europa"
+        },
+        {
+            "id": 75,
+            "name": "Jordania",
+            "merchant": "Asia"
+        },
+        {
+            "id": 30,
+            "name": "Kazajstán",
+            "merchant": "Asia"
+        },
+        {
+            "id": 97,
+            "name": "Kenia",
+            "merchant": "Africa"
+        },
+        {
+            "id": 34,
+            "name": "Kirguistán",
+            "merchant": "Asia"
+        },
+        {
+            "id": 195,
+            "name": "Kiribati",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 37,
+            "name": "Kuwait",
+            "merchant": "Asia"
+        },
+        {
+            "id": 196,
+            "name": "Laos",
+            "merchant": "Asia"
+        },
+        {
+            "id": 197,
+            "name": "Lesotho",
+            "merchant": "Africa"
+        },
+        {
+            "id": 38,
+            "name": "Letonia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 99,
+            "name": "Líbano",
+            "merchant": "Asia"
+        },
+        {
+            "id": 198,
+            "name": "Liberia",
+            "merchant": "Africa"
+        },
+        {
+            "id": 39,
+            "name": "Libia",
+            "merchant": "Africa"
+        },
+        {
+            "id": 126,
+            "name": "Liechtenstein",
+            "merchant": "Europa"
+        },
+        {
+            "id": 40,
+            "name": "Lituania",
+            "merchant": "Europa"
+        },
+        {
+            "id": 41,
+            "name": "Luxemburgo",
+            "merchant": "Europa"
+        },
+        {
+            "id": 85,
+            "name": "Macedonia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 134,
+            "name": "Madagascar",
+            "merchant": "Africa"
+        },
+        {
+            "id": 76,
+            "name": "Malasia",
+            "merchant": "Asia"
+        },
+        {
+            "id": 125,
+            "name": "Malawi",
+            "merchant": "Africa"
+        },
+        {
+            "id": 200,
+            "name": "Maldivas",
+            "merchant": "Asia"
+        },
+        {
+            "id": 133,
+            "name": "Malí",
+            "merchant": "Africa"
+        },
+        {
+            "id": 86,
+            "name": "Malta",
+            "merchant": "Europa"
+        },
+        {
+            "id": 131,
+            "name": "Isla de Man",
+            "merchant": "Europa"
+        },
+        {
+            "id": 104,
+            "name": "Marruecos",
+            "merchant": "Africa"
+        },
+        {
+            "id": 201,
+            "name": "Martinica",
+            "merchant": "Europa"
+        },
+        {
+            "id": 202,
+            "name": "Mauricio",
+            "merchant": "Africa"
+        },
+        {
+            "id": 108,
+            "name": "Mauritania",
+            "merchant": "Africa"
+        },
+        {
+            "id": 42,
+            "name": "México",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 43,
+            "name": "Moldavia",
+            "merchant": "Africa"
+        },
+        {
+            "id": 44,
+            "name": "Mónaco",
+            "merchant": "Europa"
+        },
+        {
+            "id": 139,
+            "name": "Mongolia",
+            "merchant": "Asia"
+        },
+        {
+            "id": 117,
+            "name": "Mozambique",
+            "merchant": "Africa"
+        },
+        {
+            "id": 205,
+            "name": "Myanmar",
+            "merchant": "Asia"
+        },
+        {
+            "id": 102,
+            "name": "Namibia",
+            "merchant": "Africa"
+        },
+        {
+            "id": 206,
+            "name": "Nauru",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 107,
+            "name": "Nepal",
+            "merchant": "Asia"
+        },
+        {
+            "id": 209,
+            "name": "Nicaragua",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 210,
+            "name": "Níger",
+            "merchant": "Africa"
+        },
+        {
+            "id": 115,
+            "name": "Nigeria",
+            "merchant": "Africa"
+        },
+        {
+            "id": 212,
+            "name": "Norfolk Island",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 46,
+            "name": "Noruega",
+            "merchant": "Europa"
+        },
+        {
+            "id": 208,
+            "name": "Nueva Caledonia",
+            "merchant": "Oceania"
+        },
+        {
+            "id": 45,
+            "name": "Nueva Zelanda",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 213,
+            "name": "Omán",
+            "merchant": "Asia"
+        },
+        {
+            "id": 19,
+            "name": "Países Bajos, Holanda",
+            "merchant": "Europa"
+        },
+        {
+            "id": 87,
+            "name": "Pakistán",
+            "merchant": "Asia"
+        },
+        {
+            "id": 124,
+            "name": "Panamá",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 88,
+            "name": "Papúa-Nueva Guinea",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 110,
+            "name": "Paraguay",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 89,
+            "name": "Perú",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 178,
+            "name": "Polinesia Francesa",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 47,
+            "name": "Polonia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 48,
+            "name": "Portugal",
+            "merchant": "Europa"
+        },
+        {
+            "id": 246,
+            "name": "Puerto Rico",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 216,
+            "name": "Qatar",
+            "merchant": "Asia"
+        },
+        {
+            "id": 13,
+            "name": "Reino Unido",
+            "merchant": "UK"
+        },
+        {
+            "id": 65,
+            "name": "República Checa",
+            "merchant": "Europa"
+        },
+        {
+            "id": 138,
+            "name": "República Dominicana",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 993,
+            "name": "Dominica",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 49,
+            "name": "Reunión",
+            "merchant": "Africa"
+        },
+        {
+            "id": 217,
+            "name": "Ruanda",
+            "merchant": "Africa"
+        },
+        {
+            "id": 72,
+            "name": "Rumanía",
+            "merchant": "Europa"
+        },
+        {
+            "id": 50,
+            "name": "Rusia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 242,
+            "name": "Sáhara Occidental",
+            "merchant": "Africa"
+        },
+        {
+            "id": 223,
+            "name": "American Samoa",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 219,
+            "name": "San Cristobal y Nevis",
+            "merchant": "América del Norte"
+        },
+        {
+            "id": 224,
+            "name": "San Marino",
+            "merchant": "Europa"
+        },
+        {
+            "id": 221,
+            "name": "San Pedro y Miquelón",
+            "merchant": "América del Norte"
+        },
+        {
+            "id": 225,
+            "name": "San Tomé y Príncipe",
+            "merchant": "Africa"
+        },
+        {
+            "id": 222,
+            "name": "San Vincente y Granadinas",
+            "merchant": "América del Norte"
+        },
+        {
+            "id": 218,
+            "name": "Santa Elena",
+            "merchant": "UK"
+        },
+        {
+            "id": 220,
+            "name": "Santa Lucía",
+            "merchant": "América del Norte"
+        },
+        {
+            "id": 135,
+            "name": "Senegal",
+            "merchant": "Africa"
+        },
+        {
+            "id": 226,
+            "name": "Serbia y Montenegro",
+            "merchant": "Europa"
+        },
+        {
+            "id": 109,
+            "name": "Seychelles",
+            "merchant": "Africa"
+        },
+        {
+            "id": 227,
+            "name": "Sierra Leona",
+            "merchant": "Africa"
+        },
+        {
+            "id": 77,
+            "name": "Singapur",
+            "merchant": "Asia"
+        },
+        {
+            "id": 106,
+            "name": "Siria",
+            "merchant": "Asia"
+        },
+        {
+            "id": 229,
+            "name": "Somalia",
+            "merchant": "Africa"
+        },
+        {
+            "id": 120,
+            "name": "Sri Lanka",
+            "merchant": "Asia"
+        },
+        {
+            "id": 141,
+            "name": "Sudáfrica",
+            "merchant": "Africa"
+        },
+        {
+            "id": 232,
+            "name": "Sudán",
+            "merchant": "Africa"
+        },
+        {
+            "id": 67,
+            "name": "Suecia",
+            "merchant": "Europa"
+        },
+        {
+            "id": 66,
+            "name": "Suiza",
+            "merchant": "Europa"
+        },
+        {
+            "id": 54,
+            "name": "Surinam",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 234,
+            "name": "Swazilandia",
+            "merchant": "Africa"
+        },
+        {
+            "id": 56,
+            "name": "Tadjikistan",
+            "merchant": "Asia"
+        },
+        {
+            "id": 92,
+            "name": "Tailandia",
+            "merchant": "Asia"
+        },
+        {
+            "id": 78,
+            "name": "Taiwan",
+            "merchant": "Asia"
+        },
+        {
+            "id": 101,
+            "name": "Tanzania",
+            "merchant": "Africa"
+        },
+        {
+            "id": 171,
+            "name": "Timor Oriental",
+            "merchant": "Asia"
+        },
+        {
+            "id": 136,
+            "name": "Togo",
+            "merchant": "Africa"
+        },
+        {
+            "id": 235,
+            "name": "Tokelau",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 236,
+            "name": "Tonga",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 237,
+            "name": "Trinidad y Tobago",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 122,
+            "name": "Túnez",
+            "merchant": "Africa"
+        },
+        {
+            "id": 57,
+            "name": "Turkmenistan",
+            "merchant": "Asia"
+        },
+        {
+            "id": 59,
+            "name": "Turquía",
+            "merchant": "Europa"
+        },
+        {
+            "id": 239,
+            "name": "Tuvalu",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 62,
+            "name": "Ucrania",
+            "merchant": "Europa"
+        },
+        {
+            "id": 60,
+            "name": "Uganda",
+            "merchant": "Africa"
+        },
+        {
+            "id": 111,
+            "name": "Uruguay",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 61,
+            "name": "Uzbekistán",
+            "merchant": "Asia"
+        },
+        {
+            "id": 240,
+            "name": "Vanuatu",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 95,
+            "name": "Venezuela",
+            "merchant": "Latin América"
+        },
+        {
+            "id": 15,
+            "name": "Vietnam",
+            "merchant": "Asia"
+        },
+        {
+            "id": 241,
+            "name": "Wallis y Futuna",
+            "merchant": "Oceanía"
+        },
+        {
+            "id": 243,
+            "name": "Yemen",
+            "merchant": "Asia"
+        },
+        {
+            "id": 116,
+            "name": "Zambia",
+            "merchant": "Africa"
+        },
+        {
+            "id": 96,
+            "name": "Zimbabwe",
+            "merchant": "Africa"
+        }
+    ]
+}
